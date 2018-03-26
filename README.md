@@ -3,6 +3,18 @@
 
 The goal of this class was to open our minds to other ways of problem solving. Because problem solving is often influenced by the programming language you use, we studied different languages and how they impact the way we think. 
 
+## Course Description
+* Programming language paradigms
+* subroutines and exceptions; 
+* data and procedural abstraction
+* functional programming
+* design and implementation: 
+	* syntax and semantics
+	* parsing
+	* runtime systems
+	* control
+	* data types
+
 The languages used in this class include:
 
 * C++
@@ -18,15 +30,3 @@ The languages used in this class include:
 	* Project 8: CTA Ridership Analysis, part 2
 * Swift
 	* Final Project: Swift Presentation/Demo
-
-## Course Description
-* Programming language paradigms
-* subroutines and exceptions; 
-* data and procedural abstraction
-* functional programming
-* design and implementation: 
-	* syntax and semantics
-	* parsing
-	* runtime systems
-	* control
-	* data types
