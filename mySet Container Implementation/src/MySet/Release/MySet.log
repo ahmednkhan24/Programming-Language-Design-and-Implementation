@@ -1,0 +1,11 @@
+﻿  staff_unittests.cpp
+  student_unittests.cpp
+  unittest1.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\ahmed\Documents\Visual Studio 2017\Projects\MySet\Release\MySet.lib and object C:\Users\ahmed\Documents\Visual Studio 2017\Projects\MySet\Release\MySet.exp
+  Generating code
+  0 of 2917 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MySet.vcxproj -> C:\Users\ahmed\Documents\Visual Studio 2017\Projects\MySet\Release\MySet.dll
