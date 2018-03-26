@@ -6,16 +6,16 @@ The goal of this class was to open our minds to other ways of problem solving. B
 The languages used in this class include:
 
 * C++
-		* Project 1: iClicker Analysis, part 1
-		* Project 2: iClicker Analysis, part 2
-		* Project 3: mySet container implementation - Unit Testing
+	* Project 1: iClicker Analysis, part 1
+	* Project 2: iClicker Analysis, part 2
+	* Project 3: mySet container implementation - Unit Testing
 * F#, C#
-		* Project 4: Exam Analysis
-		* Project 5: Scrabble
+	* Project 4: Exam Analysis
+	* Project 5: Scrabble
 * SQL, C#
-		* Project 6: Chicago Crime Analysis
-		* Project 7: CTA Ridership Analysis, part 1
-		* Project 8: CTA Ridership Analysis, part 2
+	* Project 6: Chicago Crime Analysis
+	* Project 7: CTA Ridership Analysis, part 1
+	* Project 8: CTA Ridership Analysis, part 2
 
 ## Course Description
 * Programming language paradigms
