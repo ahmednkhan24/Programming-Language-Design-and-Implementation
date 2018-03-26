@@ -1,0 +1,14 @@
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\ExamAnalysis.exe.config
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\ExamAnalysis.exe
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\ExamAnalysis.pdb
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\FSharp.Core.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\FSLibrary.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\FSLibrary.pdb
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\bin\Debug\FSLibrary.xml
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.Form1.resources
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.Properties.Resources.resources
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.exe
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\ExamAnalysis\obj\Debug\ExamAnalysis.pdb

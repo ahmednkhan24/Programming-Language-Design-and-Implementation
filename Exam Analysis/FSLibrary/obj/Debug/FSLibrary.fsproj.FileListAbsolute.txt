@@ -1,0 +1,9 @@
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.pdb
