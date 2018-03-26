@@ -16,6 +16,8 @@ The languages used in this class include:
 	* Project 6: Chicago Crime Analysis
 	* Project 7: CTA Ridership Analysis, part 1
 	* Project 8: CTA Ridership Analysis, part 2
+* Swift
+	* Final Project: Swift Presentation/Demo
 
 ## Course Description
 * Programming language paradigms
