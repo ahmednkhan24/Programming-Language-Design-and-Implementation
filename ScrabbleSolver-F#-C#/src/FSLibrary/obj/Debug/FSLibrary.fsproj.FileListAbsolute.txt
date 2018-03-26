@@ -1,0 +1,18 @@
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\ahmed\Documents\Junior Year\CS341\Scrabble\FSLibrary\obj\Debug\FSLibrary.pdb
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\Faraz\Documents\Visual Studio 2017\Projects\cs341proj5\FSLibrary\obj\Debug\FSLibrary.pdb
