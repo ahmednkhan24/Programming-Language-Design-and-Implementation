@@ -15,7 +15,7 @@ The goal of this class was to open our minds to other ways of problem solving. B
 	* control
 	* data types
 
-The languages used in this class include:
+## Languages used in this class:
 
 * C++
 	* Project 1: iClicker Analysis, part 1
